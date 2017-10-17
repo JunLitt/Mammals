@@ -2,3 +2,6 @@
 # Date: Tuesday, October 17, 2017
 # Author: Jun 
 
+# Loop over all files
+for data_file in $@
+
